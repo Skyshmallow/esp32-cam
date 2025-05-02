@@ -1,0 +1,781 @@
+[
+    {
+        "label": "newLook",
+        "importPath": "newLook",
+        "description": "newLook",
+        "isExtraImport": true,
+        "detail": "newLook",
+        "documentation": {}
+    },
+    {
+        "label": "os",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os",
+        "description": "os",
+        "detail": "os",
+        "documentation": {}
+    },
+    {
+        "label": "requests",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "requests",
+        "description": "requests",
+        "detail": "requests",
+        "documentation": {}
+    },
+    {
+        "label": "pyttsx3",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "pyttsx3",
+        "description": "pyttsx3",
+        "detail": "pyttsx3",
+        "documentation": {}
+    },
+    {
+        "label": "speech_recognition",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "speech_recognition",
+        "description": "speech_recognition",
+        "detail": "speech_recognition",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "datetime",
+        "description": "datetime",
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "webbrowser",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "webbrowser",
+        "description": "webbrowser",
+        "detail": "webbrowser",
+        "documentation": {}
+    },
+    {
+        "label": "wikipedia",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "wikipedia",
+        "description": "wikipedia",
+        "detail": "wikipedia",
+        "documentation": {}
+    },
+    {
+        "label": "pywhatkit",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "pywhatkit",
+        "description": "pywhatkit",
+        "detail": "pywhatkit",
+        "documentation": {}
+    },
+    {
+        "label": "smtplib",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "smtplib",
+        "description": "smtplib",
+        "detail": "smtplib",
+        "documentation": {}
+    },
+    {
+        "label": "subprocess",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "subprocess",
+        "description": "subprocess",
+        "detail": "subprocess",
+        "documentation": {}
+    },
+    {
+        "label": "threading",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "threading",
+        "description": "threading",
+        "detail": "threading",
+        "documentation": {}
+    },
+    {
+        "label": "time",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "time",
+        "description": "time",
+        "detail": "time",
+        "documentation": {}
+    },
+    {
+        "label": "sys",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "sys",
+        "description": "sys",
+        "detail": "sys",
+        "documentation": {}
+    },
+    {
+        "label": "load_dotenv",
+        "importPath": "dotenv",
+        "description": "dotenv",
+        "isExtraImport": true,
+        "detail": "dotenv",
+        "documentation": {}
+    },
+    {
+        "label": "google.generativeai",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "google.generativeai",
+        "description": "google.generativeai",
+        "detail": "google.generativeai",
+        "documentation": {}
+    },
+    {
+        "label": "cv2",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "cv2",
+        "description": "cv2",
+        "detail": "cv2",
+        "documentation": {}
+    },
+    {
+        "label": "numpy",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "numpy",
+        "description": "numpy",
+        "detail": "numpy",
+        "documentation": {}
+    },
+    {
+        "label": "edge_tts",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "edge_tts",
+        "description": "edge_tts",
+        "detail": "edge_tts",
+        "documentation": {}
+    },
+    {
+        "label": "asyncio",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "asyncio",
+        "description": "asyncio",
+        "detail": "asyncio",
+        "documentation": {}
+    },
+    {
+        "label": "sounddevice",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "sounddevice",
+        "description": "sounddevice",
+        "detail": "sounddevice",
+        "documentation": {}
+    },
+    {
+        "label": "soundfile",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "soundfile",
+        "description": "soundfile",
+        "detail": "soundfile",
+        "documentation": {}
+    },
+    {
+        "label": "mediapipe",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "mediapipe",
+        "description": "mediapipe",
+        "detail": "mediapipe",
+        "documentation": {}
+    },
+    {
+        "label": "queue",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "queue",
+        "description": "queue",
+        "detail": "queue",
+        "documentation": {}
+    },
+    {
+        "label": "io",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "io",
+        "description": "io",
+        "detail": "io",
+        "documentation": {}
+    },
+    {
+        "label": "BytesIO",
+        "importPath": "io",
+        "description": "io",
+        "isExtraImport": true,
+        "detail": "io",
+        "documentation": {}
+    },
+    {
+        "label": "audioop",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "audioop",
+        "description": "audioop",
+        "detail": "audioop",
+        "documentation": {}
+    },
+    {
+        "label": "urllib.request",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "urllib.request",
+        "description": "urllib.request",
+        "detail": "urllib.request",
+        "documentation": {}
+    },
+    {
+        "label": "speak",
+        "kind": 2,
+        "importPath": "new gpt",
+        "description": "new gpt",
+        "peekOfCode": "def speak(audio):\n    print(f\"{BOTNAME}: {audio}\")\n    engine.say(audio)\n    engine.runAndWait()\n# Wish Me Function\ndef wish_me():\n    hour = int(datetime.datetime.now().hour)\n    if 0 <= hour < 12:\n        speak(f\"Good Morning {USER}!\")\n    elif 12 <= hour < 18:",
+        "detail": "new gpt",
+        "documentation": {}
+    },
+    {
+        "label": "wish_me",
+        "kind": 2,
+        "importPath": "new gpt",
+        "description": "new gpt",
+        "peekOfCode": "def wish_me():\n    hour = int(datetime.datetime.now().hour)\n    if 0 <= hour < 12:\n        speak(f\"Good Morning {USER}!\")\n    elif 12 <= hour < 18:\n        speak(f\"Good Afternoon {USER}!\")\n    else:\n        speak(f\"Good Evening {USER}!\")\n    speak(f\"I am {BOTNAME}. How can I help you?\")\n# Take Command Function",
+        "detail": "new gpt",
+        "documentation": {}
+    },
+    {
+        "label": "take_command",
+        "kind": 2,
+        "importPath": "new gpt",
+        "description": "new gpt",
+        "peekOfCode": "def take_command():\n    r = sr.Recognizer()\n    with sr.Microphone() as source:\n        print(\"Listening...\")\n        r.pause_threshold = 1\n        audio = r.listen(source)\n    try:\n        print(\"Recognizing...\")\n        query = r.recognize_google(audio, language='en-US')\n        print(f\"{USER}: {query}\\n\")",
+        "detail": "new gpt",
+        "documentation": {}
+    },
+    {
+        "label": "send_email",
+        "kind": 2,
+        "importPath": "new gpt",
+        "description": "new gpt",
+        "peekOfCode": "def send_email(to, subject, body):\n    try:\n        server = smtplib.SMTP('smtp.gmail.com', 587)\n        server.starttls()\n        server.login(EMAIL, EMAIL_PASSWORD)\n        message = f\"Subject: {subject}\\n\\n{body}\"\n        server.sendmail(EMAIL, to, message)\n        server.quit()\n        speak(\"Email has been sent successfully!\")\n    except Exception as e:",
+        "detail": "new gpt",
+        "documentation": {}
+    },
+    {
+        "label": "calculate",
+        "kind": 2,
+        "importPath": "new gpt",
+        "description": "new gpt",
+        "peekOfCode": "def calculate(expression):\n    try:\n        result = eval(expression)\n        speak(f\"The answer is {result}\")\n    except Exception as e:\n        speak(\"Sorry, I couldn't calculate that.\")\n        print(e)\n# Open installed apps\ndef open_application(app_name):\n    try:",
+        "detail": "new gpt",
+        "documentation": {}
+    },
+    {
+        "label": "open_application",
+        "kind": 2,
+        "importPath": "new gpt",
+        "description": "new gpt",
+        "peekOfCode": "def open_application(app_name):\n    try:\n        if 'calculator' in app_name:\n            subprocess.Popen('calc.exe')\n            speak(\"Opening Calculator\")\n        elif 'arduino' in app_name:\n            subprocess.Popen(r\"C:\\Users\\Lenovo\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\")\n            speak(\"Opening Arduino IDE\")\n        elif 'steam' in app_name:\n            subprocess.Popen(r\"C:\\Program Files (x86)\\Steam\\Steam.exe\")",
+        "detail": "new gpt",
+        "documentation": {}
+    },
+    {
+        "label": "take_notes",
+        "kind": 2,
+        "importPath": "new gpt",
+        "description": "new gpt",
+        "peekOfCode": "def take_notes():\n    speak(\"What would you like to note down?\")\n    note = take_command()\n    if note != \"None\":\n        with open(\"notes.txt\", \"a\") as file:\n            file.write(f\"{datetime.datetime.now()}: {note}\\n\")\n        speak(\"Your note has been saved.\")\n# Set Alarm Function\ndef set_alarm():\n    speak(\"Please tell me the time for the alarm in HH:MM format.\")",
+        "detail": "new gpt",
+        "documentation": {}
+    },
+    {
+        "label": "set_alarm",
+        "kind": 2,
+        "importPath": "new gpt",
+        "description": "new gpt",
+        "peekOfCode": "def set_alarm():\n    speak(\"Please tell me the time for the alarm in HH:MM format.\")\n    alarm_time = input(\"Enter the alarm time in HH:MM format: \")  # Take input manually\n    if alarm_time != \"None\":\n        try:\n            alarm_hour, alarm_minute = map(int, alarm_time.split(\":\"))\n            current_time = datetime.datetime.now()\n            alarm_time_obj = current_time.replace(hour=alarm_hour, minute=alarm_minute, second=0, microsecond=0)\n            if alarm_time_obj < current_time:\n                alarm_time_obj += datetime.timedelta(days=1)  # Set alarm for next day",
+        "detail": "new gpt",
+        "documentation": {}
+    },
+    {
+        "label": "website_search",
+        "kind": 2,
+        "importPath": "new gpt",
+        "description": "new gpt",
+        "peekOfCode": "def website_search(query):\n    if 'anime' in query:\n        speak(\"Opening Anime website.\")\n        webbrowser.open(\"https://jut.su/anime/\")\n    elif 'korean website' in query:\n        speak(\"Opening Dorama website.\")\n        webbrowser.open(\"https://doramy.club/\")\n    elif 'portal' in query:\n        speak(\"Opening SDU Portal.\")\n        webbrowser.open(\"https://my.sdu.edu.kz/index.php\")",
+        "detail": "new gpt",
+        "documentation": {}
+    },
+    {
+        "label": "newLook_wrapper",
+        "kind": 2,
+        "importPath": "new gpt",
+        "description": "new gpt",
+        "peekOfCode": "def newLook_wrapper(follow_person, record, show_debug=True):\n    global tracking_active\n    try:\n        # Clear the stop event before starting\n        stop_tracking_event.clear()\n        # Start tracking\n        newLook(follow_person=follow_person, record=record, show_debug=show_debug)\n    except Exception as e:\n        print(f\"Error in newLook wrapper: {e}\")\n        import traceback",
+        "detail": "new gpt",
+        "documentation": {}
+    },
+    {
+        "label": "toggle_person_following",
+        "kind": 2,
+        "importPath": "new gpt",
+        "description": "new gpt",
+        "peekOfCode": "def toggle_person_following(follow=True, record=True, show_debug=True):\n    global person_tracking_thread, tracking_active\n    # Check if tracking module is available\n    if not tracking_module_available:\n        speak(\"Person tracking functionality is not available. Please make sure newLook.py is in the same directory.\")\n        return\n    try:\n        # If tracking is active, stop it first\n        if tracking_active and person_tracking_thread and person_tracking_thread.is_alive():\n            speak(\"Stopping current tracking session...\")",
+        "detail": "new gpt",
+        "documentation": {}
+    },
+    {
+        "label": "talk_with_gemini",
+        "kind": 2,
+        "importPath": "new gpt",
+        "description": "new gpt",
+        "peekOfCode": "def talk_with_gemini(query):\n    try:\n        # Generate a response from Gemini\n        response = gemini_model.generate_content(query)\n        # Check if the response is valid\n        if response and hasattr(response, 'text'):\n            response_text = response.text\n            # Speak the response\n            speak(response_text)\n        else:",
+        "detail": "new gpt",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "new gpt",
+        "description": "new gpt",
+        "peekOfCode": "def main():\n    global talking_mode\n    wish_me()\n    while True:\n        query = take_command()\n        # Check if we should enter or exit talking mode\n        if 'let\\'s talk' in query:\n            talking_mode = True\n            speak(\"Entering conversation mode with Gemini. Say 'stop talking' when you want to exit this mode.\")\n            continue",
+        "detail": "new gpt",
+        "documentation": {}
+    },
+    {
+        "label": "USER",
+        "kind": 5,
+        "importPath": "new gpt",
+        "description": "new gpt",
+        "peekOfCode": "USER = os.getenv(\"SIR\") or \"User\"\nBOTNAME = os.getenv(\"BOTNAME\") or \"Assistant\"\nEMAIL = os.getenv(\"EMAIL\")\nEMAIL_PASSWORD = os.getenv(\"EMAIL_PASSWORD\")\nNEWS_API_KEY = os.getenv(\"NEWS_API_KEY\")\nOPENWEATHER_API_KEY = os.getenv(\"OPENWEATHER_API_KEY\")\nGOOGLE_KEY = \"AIzaSyBvE04SnLektunSmuCKk0CnzvFSScZupG8\"  # Google API Key\nGEMINI_MODEL = \"gemini-2.0-flash-lite\"  # Gemini model name\n# Configure Google Generative AI\ngenai.configure(api_key=GOOGLE_KEY)",
+        "detail": "new gpt",
+        "documentation": {}
+    },
+    {
+        "label": "BOTNAME",
+        "kind": 5,
+        "importPath": "new gpt",
+        "description": "new gpt",
+        "peekOfCode": "BOTNAME = os.getenv(\"BOTNAME\") or \"Assistant\"\nEMAIL = os.getenv(\"EMAIL\")\nEMAIL_PASSWORD = os.getenv(\"EMAIL_PASSWORD\")\nNEWS_API_KEY = os.getenv(\"NEWS_API_KEY\")\nOPENWEATHER_API_KEY = os.getenv(\"OPENWEATHER_API_KEY\")\nGOOGLE_KEY = \"AIzaSyBvE04SnLektunSmuCKk0CnzvFSScZupG8\"  # Google API Key\nGEMINI_MODEL = \"gemini-2.0-flash-lite\"  # Gemini model name\n# Configure Google Generative AI\ngenai.configure(api_key=GOOGLE_KEY)\ngemini_model = genai.GenerativeModel(GEMINI_MODEL)",
+        "detail": "new gpt",
+        "documentation": {}
+    },
+    {
+        "label": "EMAIL",
+        "kind": 5,
+        "importPath": "new gpt",
+        "description": "new gpt",
+        "peekOfCode": "EMAIL = os.getenv(\"EMAIL\")\nEMAIL_PASSWORD = os.getenv(\"EMAIL_PASSWORD\")\nNEWS_API_KEY = os.getenv(\"NEWS_API_KEY\")\nOPENWEATHER_API_KEY = os.getenv(\"OPENWEATHER_API_KEY\")\nGOOGLE_KEY = \"AIzaSyBvE04SnLektunSmuCKk0CnzvFSScZupG8\"  # Google API Key\nGEMINI_MODEL = \"gemini-2.0-flash-lite\"  # Gemini model name\n# Configure Google Generative AI\ngenai.configure(api_key=GOOGLE_KEY)\ngemini_model = genai.GenerativeModel(GEMINI_MODEL)\n# Import the newLook module and get access to the stop_tracking_event",
+        "detail": "new gpt",
+        "documentation": {}
+    },
+    {
+        "label": "EMAIL_PASSWORD",
+        "kind": 5,
+        "importPath": "new gpt",
+        "description": "new gpt",
+        "peekOfCode": "EMAIL_PASSWORD = os.getenv(\"EMAIL_PASSWORD\")\nNEWS_API_KEY = os.getenv(\"NEWS_API_KEY\")\nOPENWEATHER_API_KEY = os.getenv(\"OPENWEATHER_API_KEY\")\nGOOGLE_KEY = \"AIzaSyBvE04SnLektunSmuCKk0CnzvFSScZupG8\"  # Google API Key\nGEMINI_MODEL = \"gemini-2.0-flash-lite\"  # Gemini model name\n# Configure Google Generative AI\ngenai.configure(api_key=GOOGLE_KEY)\ngemini_model = genai.GenerativeModel(GEMINI_MODEL)\n# Import the newLook module and get access to the stop_tracking_event\n# Use a try-except to handle potential import errors gracefully",
+        "detail": "new gpt",
+        "documentation": {}
+    },
+    {
+        "label": "NEWS_API_KEY",
+        "kind": 5,
+        "importPath": "new gpt",
+        "description": "new gpt",
+        "peekOfCode": "NEWS_API_KEY = os.getenv(\"NEWS_API_KEY\")\nOPENWEATHER_API_KEY = os.getenv(\"OPENWEATHER_API_KEY\")\nGOOGLE_KEY = \"AIzaSyBvE04SnLektunSmuCKk0CnzvFSScZupG8\"  # Google API Key\nGEMINI_MODEL = \"gemini-2.0-flash-lite\"  # Gemini model name\n# Configure Google Generative AI\ngenai.configure(api_key=GOOGLE_KEY)\ngemini_model = genai.GenerativeModel(GEMINI_MODEL)\n# Import the newLook module and get access to the stop_tracking_event\n# Use a try-except to handle potential import errors gracefully\ntry:",
+        "detail": "new gpt",
+        "documentation": {}
+    },
+    {
+        "label": "OPENWEATHER_API_KEY",
+        "kind": 5,
+        "importPath": "new gpt",
+        "description": "new gpt",
+        "peekOfCode": "OPENWEATHER_API_KEY = os.getenv(\"OPENWEATHER_API_KEY\")\nGOOGLE_KEY = \"AIzaSyBvE04SnLektunSmuCKk0CnzvFSScZupG8\"  # Google API Key\nGEMINI_MODEL = \"gemini-2.0-flash-lite\"  # Gemini model name\n# Configure Google Generative AI\ngenai.configure(api_key=GOOGLE_KEY)\ngemini_model = genai.GenerativeModel(GEMINI_MODEL)\n# Import the newLook module and get access to the stop_tracking_event\n# Use a try-except to handle potential import errors gracefully\ntry:\n    from newLook import newLook, stop_tracking_event",
+        "detail": "new gpt",
+        "documentation": {}
+    },
+    {
+        "label": "GOOGLE_KEY",
+        "kind": 5,
+        "importPath": "new gpt",
+        "description": "new gpt",
+        "peekOfCode": "GOOGLE_KEY = \"AIzaSyBvE04SnLektunSmuCKk0CnzvFSScZupG8\"  # Google API Key\nGEMINI_MODEL = \"gemini-2.0-flash-lite\"  # Gemini model name\n# Configure Google Generative AI\ngenai.configure(api_key=GOOGLE_KEY)\ngemini_model = genai.GenerativeModel(GEMINI_MODEL)\n# Import the newLook module and get access to the stop_tracking_event\n# Use a try-except to handle potential import errors gracefully\ntry:\n    from newLook import newLook, stop_tracking_event\n    tracking_module_available = True",
+        "detail": "new gpt",
+        "documentation": {}
+    },
+    {
+        "label": "GEMINI_MODEL",
+        "kind": 5,
+        "importPath": "new gpt",
+        "description": "new gpt",
+        "peekOfCode": "GEMINI_MODEL = \"gemini-2.0-flash-lite\"  # Gemini model name\n# Configure Google Generative AI\ngenai.configure(api_key=GOOGLE_KEY)\ngemini_model = genai.GenerativeModel(GEMINI_MODEL)\n# Import the newLook module and get access to the stop_tracking_event\n# Use a try-except to handle potential import errors gracefully\ntry:\n    from newLook import newLook, stop_tracking_event\n    tracking_module_available = True\nexcept ImportError:",
+        "detail": "new gpt",
+        "documentation": {}
+    },
+    {
+        "label": "gemini_model",
+        "kind": 5,
+        "importPath": "new gpt",
+        "description": "new gpt",
+        "peekOfCode": "gemini_model = genai.GenerativeModel(GEMINI_MODEL)\n# Import the newLook module and get access to the stop_tracking_event\n# Use a try-except to handle potential import errors gracefully\ntry:\n    from newLook import newLook, stop_tracking_event\n    tracking_module_available = True\nexcept ImportError:\n    print(\"Warning: newLook module not found. Person tracking will be disabled.\")\n    tracking_module_available = False\n    # Create a dummy event object if the module is not available",
+        "detail": "new gpt",
+        "documentation": {}
+    },
+    {
+        "label": "person_tracking_thread",
+        "kind": 5,
+        "importPath": "new gpt",
+        "description": "new gpt",
+        "peekOfCode": "person_tracking_thread = None\ntracking_active = False\ntalking_mode = False  # Flag to track if we're in talking mode\n# Initialize Text-to-Speech Engine\nengine = pyttsx3.init()\nvoices = engine.getProperty('voices')\nengine.setProperty('voice', voices[1].id)  # Female voice\n# Speak Function\ndef speak(audio):\n    print(f\"{BOTNAME}: {audio}\")",
+        "detail": "new gpt",
+        "documentation": {}
+    },
+    {
+        "label": "tracking_active",
+        "kind": 5,
+        "importPath": "new gpt",
+        "description": "new gpt",
+        "peekOfCode": "tracking_active = False\ntalking_mode = False  # Flag to track if we're in talking mode\n# Initialize Text-to-Speech Engine\nengine = pyttsx3.init()\nvoices = engine.getProperty('voices')\nengine.setProperty('voice', voices[1].id)  # Female voice\n# Speak Function\ndef speak(audio):\n    print(f\"{BOTNAME}: {audio}\")\n    engine.say(audio)",
+        "detail": "new gpt",
+        "documentation": {}
+    },
+    {
+        "label": "talking_mode",
+        "kind": 5,
+        "importPath": "new gpt",
+        "description": "new gpt",
+        "peekOfCode": "talking_mode = False  # Flag to track if we're in talking mode\n# Initialize Text-to-Speech Engine\nengine = pyttsx3.init()\nvoices = engine.getProperty('voices')\nengine.setProperty('voice', voices[1].id)  # Female voice\n# Speak Function\ndef speak(audio):\n    print(f\"{BOTNAME}: {audio}\")\n    engine.say(audio)\n    engine.runAndWait()",
+        "detail": "new gpt",
+        "documentation": {}
+    },
+    {
+        "label": "engine",
+        "kind": 5,
+        "importPath": "new gpt",
+        "description": "new gpt",
+        "peekOfCode": "engine = pyttsx3.init()\nvoices = engine.getProperty('voices')\nengine.setProperty('voice', voices[1].id)  # Female voice\n# Speak Function\ndef speak(audio):\n    print(f\"{BOTNAME}: {audio}\")\n    engine.say(audio)\n    engine.runAndWait()\n# Wish Me Function\ndef wish_me():",
+        "detail": "new gpt",
+        "documentation": {}
+    },
+    {
+        "label": "voices",
+        "kind": 5,
+        "importPath": "new gpt",
+        "description": "new gpt",
+        "peekOfCode": "voices = engine.getProperty('voices')\nengine.setProperty('voice', voices[1].id)  # Female voice\n# Speak Function\ndef speak(audio):\n    print(f\"{BOTNAME}: {audio}\")\n    engine.say(audio)\n    engine.runAndWait()\n# Wish Me Function\ndef wish_me():\n    hour = int(datetime.datetime.now().hour)",
+        "detail": "new gpt",
+        "documentation": {}
+    },
+    {
+        "label": "generate_start_beep",
+        "kind": 2,
+        "importPath": "newAnna",
+        "description": "newAnna",
+        "peekOfCode": "def generate_start_beep():\n    sample_rate = 44100\n    duration = 0.2  # seconds\n    frequency = 1500  # Hz (higher pitch)\n    t = np.linspace(0, duration, int(sample_rate * duration), False)\n    beep = 0.5 * np.sin(2 * np.pi * frequency * t)\n    # Add fade-in\n    fade_samples = int(0.05 * sample_rate)\n    fade_in = np.linspace(0, 1, fade_samples)\n    beep[:fade_samples] = beep[:fade_samples] * fade_in",
+        "detail": "newAnna",
+        "documentation": {}
+    },
+    {
+        "label": "generate_stop_beep",
+        "kind": 2,
+        "importPath": "newAnna",
+        "description": "newAnna",
+        "peekOfCode": "def generate_stop_beep():\n    sample_rate = 44100\n    duration = 0.3  # seconds\n    start_freq = 1200  # Hz\n    end_freq = 800  # Hz\n    t = np.linspace(0, duration, int(sample_rate * duration), False)\n    # Create descending tone\n    frequency = np.linspace(start_freq, end_freq, int(sample_rate * duration))\n    beep = 0.5 * np.sin(2 * np.pi * t * frequency)\n    # Add fade-out",
+        "detail": "newAnna",
+        "documentation": {}
+    },
+    {
+        "label": "move_camera",
+        "kind": 2,
+        "importPath": "newAnna",
+        "description": "newAnna",
+        "peekOfCode": "def move_camera(direction):\n    global current_position\n    try:\n        response = requests.get(f\"{ESP32_CONTROL_URL}?go={direction}\", timeout=1)\n        # Update position tracking\n        if direction == \"up\":\n            current_position[\"tilt\"] += 10\n        elif direction == \"down\":\n            current_position[\"tilt\"] -= 10\n        elif direction == \"left\":",
+        "detail": "newAnna",
+        "documentation": {}
+    },
+    {
+        "label": "track_human",
+        "kind": 2,
+        "importPath": "newAnna",
+        "description": "newAnna",
+        "peekOfCode": "def track_human():\n    global frame_queue\n    # Initialize pose detector with standard MediaPipe API\n    pose = mp_pose.Pose(\n        min_detection_confidence=0.5,\n        min_tracking_confidence=0.5)\n    # Calculate center of frame and movement thresholds\n    frame_center_x_offset = 100  # Allow some margin before moving\n    frame_center_y_offset = 80\n    move_cooldown = 0  # Prevent rapid movement",
+        "detail": "newAnna",
+        "documentation": {}
+    },
+    {
+        "label": "stream_video",
+        "kind": 2,
+        "importPath": "newAnna",
+        "description": "newAnna",
+        "peekOfCode": "def stream_video():\n    global frame_queue\n    cap = cv2.VideoCapture(ESP32_CAM_STREAM_URL)\n    if not cap.isOpened():\n        print(\"Failed to open stream URL\")\n        return\n    while True:\n        try:\n            ret, frame = cap.read()\n            if not ret:",
+        "detail": "newAnna",
+        "documentation": {}
+    },
+    {
+        "label": "listen_for_wake_word",
+        "kind": 2,
+        "importPath": "newAnna",
+        "description": "newAnna",
+        "peekOfCode": "def listen_for_wake_word():\n    global voice_command_active\n    recognizer = sr.Recognizer()\n    recognizer.energy_threshold = 4000\n    recognizer.dynamic_energy_threshold = True\n    while True:\n        try:\n            with sr.Microphone() as source:\n                print(\"Listening for wake phrase...\")\n                audio = recognizer.listen(source, phrase_time_limit=2)",
+        "detail": "newAnna",
+        "documentation": {}
+    },
+    {
+        "label": "process_voice_command",
+        "kind": 2,
+        "importPath": "newAnna",
+        "description": "newAnna",
+        "peekOfCode": "def process_voice_command():\n    global voice_command_active\n    recognizer = sr.Recognizer()\n    max_command_duration = 8  # Maximum time for command in seconds\n    try:\n        with sr.Microphone() as source:\n            print(\"Listening for command...\")\n            # Fixed time listening\n            audio = recognizer.listen(source, phrase_time_limit=max_command_duration)\n            # Play the stop listening beep to indicate recording is complete",
+        "detail": "newAnna",
+        "documentation": {}
+    },
+    {
+        "label": "process_with_gemini",
+        "kind": 2,
+        "importPath": "newAnna",
+        "description": "newAnna",
+        "peekOfCode": "def process_with_gemini(text):\n    try:\n        # Configure Gemini API\n        genai.configure(api_key=GOOGLE_KEY)\n        model = genai.GenerativeModel(GEMINI_MODEL)\n        # Get response from Gemini\n        response = model.generate_content(text)\n        response_text = response.text\n        print(f\"Gemini response: {response_text}\")\n        # Convert response to speech",
+        "detail": "newAnna",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "newAnna",
+        "description": "newAnna",
+        "peekOfCode": "def main():\n    # Start video streaming thread\n    video_thread = threading.Thread(target=stream_video, daemon=True)\n    video_thread.start()\n    # Start human tracking thread\n    tracking_thread = threading.Thread(target=track_human, daemon=True)\n    tracking_thread.start()\n    # Start wake word detection thread\n    voice_thread = threading.Thread(target=listen_for_wake_word, daemon=True)\n    voice_thread.start()",
+        "detail": "newAnna",
+        "documentation": {}
+    },
+    {
+        "label": "ESP32_CAM_STREAM_URL",
+        "kind": 5,
+        "importPath": "newAnna",
+        "description": "newAnna",
+        "peekOfCode": "ESP32_CAM_STREAM_URL = \"http://192.168.46.186:81/stream\"\nESP32_CONTROL_URL = \"http://192.168.46.186/action\"\nGOOGLE_KEY = \"AIzaSyBvE04SnLektunSmuCKk0CnzvFSScZupG8\"\nGEMINI_MODEL = \"gemini-2.0-flash-lite\"\nVOICE = \"en-US-AnaNeural\"\n# VOICE        = \"kk-KZ-AigulNeural\"\nWAKE_PHRASE = \"ok google\"\n# Initialize MediaPipe pose detection\nmp_pose = mp.solutions.pose\nmp_drawing = mp.solutions.drawing_utils",
+        "detail": "newAnna",
+        "documentation": {}
+    },
+    {
+        "label": "ESP32_CONTROL_URL",
+        "kind": 5,
+        "importPath": "newAnna",
+        "description": "newAnna",
+        "peekOfCode": "ESP32_CONTROL_URL = \"http://192.168.46.186/action\"\nGOOGLE_KEY = \"AIzaSyBvE04SnLektunSmuCKk0CnzvFSScZupG8\"\nGEMINI_MODEL = \"gemini-2.0-flash-lite\"\nVOICE = \"en-US-AnaNeural\"\n# VOICE        = \"kk-KZ-AigulNeural\"\nWAKE_PHRASE = \"ok google\"\n# Initialize MediaPipe pose detection\nmp_pose = mp.solutions.pose\nmp_drawing = mp.solutions.drawing_utils\n# Global variables",
+        "detail": "newAnna",
+        "documentation": {}
+    },
+    {
+        "label": "GOOGLE_KEY",
+        "kind": 5,
+        "importPath": "newAnna",
+        "description": "newAnna",
+        "peekOfCode": "GOOGLE_KEY = \"AIzaSyBvE04SnLektunSmuCKk0CnzvFSScZupG8\"\nGEMINI_MODEL = \"gemini-2.0-flash-lite\"\nVOICE = \"en-US-AnaNeural\"\n# VOICE        = \"kk-KZ-AigulNeural\"\nWAKE_PHRASE = \"ok google\"\n# Initialize MediaPipe pose detection\nmp_pose = mp.solutions.pose\nmp_drawing = mp.solutions.drawing_utils\n# Global variables\nframe_queue = queue.Queue(maxsize=1)",
+        "detail": "newAnna",
+        "documentation": {}
+    },
+    {
+        "label": "GEMINI_MODEL",
+        "kind": 5,
+        "importPath": "newAnna",
+        "description": "newAnna",
+        "peekOfCode": "GEMINI_MODEL = \"gemini-2.0-flash-lite\"\nVOICE = \"en-US-AnaNeural\"\n# VOICE        = \"kk-KZ-AigulNeural\"\nWAKE_PHRASE = \"ok google\"\n# Initialize MediaPipe pose detection\nmp_pose = mp.solutions.pose\nmp_drawing = mp.solutions.drawing_utils\n# Global variables\nframe_queue = queue.Queue(maxsize=1)\ncurrent_position = {\"pan\": 0, \"tilt\": 0}",
+        "detail": "newAnna",
+        "documentation": {}
+    },
+    {
+        "label": "VOICE",
+        "kind": 5,
+        "importPath": "newAnna",
+        "description": "newAnna",
+        "peekOfCode": "VOICE = \"en-US-AnaNeural\"\n# VOICE        = \"kk-KZ-AigulNeural\"\nWAKE_PHRASE = \"ok google\"\n# Initialize MediaPipe pose detection\nmp_pose = mp.solutions.pose\nmp_drawing = mp.solutions.drawing_utils\n# Global variables\nframe_queue = queue.Queue(maxsize=1)\ncurrent_position = {\"pan\": 0, \"tilt\": 0}\nvoice_command_active = False",
+        "detail": "newAnna",
+        "documentation": {}
+    },
+    {
+        "label": "WAKE_PHRASE",
+        "kind": 5,
+        "importPath": "newAnna",
+        "description": "newAnna",
+        "peekOfCode": "WAKE_PHRASE = \"ok google\"\n# Initialize MediaPipe pose detection\nmp_pose = mp.solutions.pose\nmp_drawing = mp.solutions.drawing_utils\n# Global variables\nframe_queue = queue.Queue(maxsize=1)\ncurrent_position = {\"pan\": 0, \"tilt\": 0}\nvoice_command_active = False\nresponse_queue = queue.Queue()\n# Generate and play a start listening beep sound (higher pitch)",
+        "detail": "newAnna",
+        "documentation": {}
+    },
+    {
+        "label": "mp_pose",
+        "kind": 5,
+        "importPath": "newAnna",
+        "description": "newAnna",
+        "peekOfCode": "mp_pose = mp.solutions.pose\nmp_drawing = mp.solutions.drawing_utils\n# Global variables\nframe_queue = queue.Queue(maxsize=1)\ncurrent_position = {\"pan\": 0, \"tilt\": 0}\nvoice_command_active = False\nresponse_queue = queue.Queue()\n# Generate and play a start listening beep sound (higher pitch)\ndef generate_start_beep():\n    sample_rate = 44100",
+        "detail": "newAnna",
+        "documentation": {}
+    },
+    {
+        "label": "mp_drawing",
+        "kind": 5,
+        "importPath": "newAnna",
+        "description": "newAnna",
+        "peekOfCode": "mp_drawing = mp.solutions.drawing_utils\n# Global variables\nframe_queue = queue.Queue(maxsize=1)\ncurrent_position = {\"pan\": 0, \"tilt\": 0}\nvoice_command_active = False\nresponse_queue = queue.Queue()\n# Generate and play a start listening beep sound (higher pitch)\ndef generate_start_beep():\n    sample_rate = 44100\n    duration = 0.2  # seconds",
+        "detail": "newAnna",
+        "documentation": {}
+    },
+    {
+        "label": "frame_queue",
+        "kind": 5,
+        "importPath": "newAnna",
+        "description": "newAnna",
+        "peekOfCode": "frame_queue = queue.Queue(maxsize=1)\ncurrent_position = {\"pan\": 0, \"tilt\": 0}\nvoice_command_active = False\nresponse_queue = queue.Queue()\n# Generate and play a start listening beep sound (higher pitch)\ndef generate_start_beep():\n    sample_rate = 44100\n    duration = 0.2  # seconds\n    frequency = 1500  # Hz (higher pitch)\n    t = np.linspace(0, duration, int(sample_rate * duration), False)",
+        "detail": "newAnna",
+        "documentation": {}
+    },
+    {
+        "label": "current_position",
+        "kind": 5,
+        "importPath": "newAnna",
+        "description": "newAnna",
+        "peekOfCode": "current_position = {\"pan\": 0, \"tilt\": 0}\nvoice_command_active = False\nresponse_queue = queue.Queue()\n# Generate and play a start listening beep sound (higher pitch)\ndef generate_start_beep():\n    sample_rate = 44100\n    duration = 0.2  # seconds\n    frequency = 1500  # Hz (higher pitch)\n    t = np.linspace(0, duration, int(sample_rate * duration), False)\n    beep = 0.5 * np.sin(2 * np.pi * frequency * t)",
+        "detail": "newAnna",
+        "documentation": {}
+    },
+    {
+        "label": "voice_command_active",
+        "kind": 5,
+        "importPath": "newAnna",
+        "description": "newAnna",
+        "peekOfCode": "voice_command_active = False\nresponse_queue = queue.Queue()\n# Generate and play a start listening beep sound (higher pitch)\ndef generate_start_beep():\n    sample_rate = 44100\n    duration = 0.2  # seconds\n    frequency = 1500  # Hz (higher pitch)\n    t = np.linspace(0, duration, int(sample_rate * duration), False)\n    beep = 0.5 * np.sin(2 * np.pi * frequency * t)\n    # Add fade-in",
+        "detail": "newAnna",
+        "documentation": {}
+    },
+    {
+        "label": "response_queue",
+        "kind": 5,
+        "importPath": "newAnna",
+        "description": "newAnna",
+        "peekOfCode": "response_queue = queue.Queue()\n# Generate and play a start listening beep sound (higher pitch)\ndef generate_start_beep():\n    sample_rate = 44100\n    duration = 0.2  # seconds\n    frequency = 1500  # Hz (higher pitch)\n    t = np.linspace(0, duration, int(sample_rate * duration), False)\n    beep = 0.5 * np.sin(2 * np.pi * frequency * t)\n    # Add fade-in\n    fade_samples = int(0.05 * sample_rate)",
+        "detail": "newAnna",
+        "documentation": {}
+    },
+    {
+        "label": "MjpegStreamReader",
+        "kind": 6,
+        "importPath": "newLook",
+        "description": "newLook",
+        "peekOfCode": "class MjpegStreamReader:\n    def __init__(self, url):\n        self.url = url\n        self.frame = None\n        self.stopped = False\n        self.thread = None\n        self.last_frame_time = 0\n    def start(self):\n        \"\"\"Start the MJPEG stream reader thread\"\"\"\n        print(f\"Starting MJPEG stream reader for {self.url}\")",
+        "detail": "newLook",
+        "documentation": {}
+    },
+    {
+        "label": "HeadTrackingCamera",
+        "kind": 6,
+        "importPath": "newLook",
+        "description": "newLook",
+        "peekOfCode": "class HeadTrackingCamera:\n    def __init__(self, follow_person=True, record=False):\n        # Track and record settings\n        self.follow_person = follow_person\n        self.record = record\n        # Video recording properties\n        self.video_writer = None\n        self.recording_started = False\n        self.recording_path = \"\"\n        self.fps = 20  # Target frames per second for recording",
+        "detail": "newLook",
+        "documentation": {}
+    },
+    {
+        "label": "newLook",
+        "kind": 2,
+        "importPath": "newLook",
+        "description": "newLook",
+        "peekOfCode": "def newLook(follow_person=True, record=False, show_debug=True):\n    \"\"\"Main function to start the ESP32-CAM head tracking and/or recording\"\"\"\n    global stop_tracking_event\n    # Reset the stop event at the beginning of the function\n    stop_tracking_event.clear()\n    try:\n        print(\"ESP32-CAM Camera System\")\n        print(f\"Video stream: {VIDEO_STREAM_URL}\")\n        print(f\"Camera control: {CAMERA_CONTROL_URL}\")\n        if show_debug:",
+        "detail": "newLook",
+        "documentation": {}
+    },
+    {
+        "label": "CAMERA_IP",
+        "kind": 5,
+        "importPath": "newLook",
+        "description": "newLook",
+        "peekOfCode": "CAMERA_IP = \"192.168.46.186\"\nCAMERA_CONTROL_URL = f\"http://{CAMERA_IP}/action\"\nVIDEO_STREAM_URL = f\"http://{CAMERA_IP}:81/stream\"\n# Movement parameters\nMOVE_COOLDOWN = 0.12  # Seconds between camera movements (reduced from 0.5)\nCENTER_THRESHOLD = 0.1  # Distance from center before moving camera (reduced from 0.15)\nMOVEMENT_SMOOTHING = 2  # Number of frames to consider for smoothing movement\n# Global stop event to allow external termination\nstop_tracking_event = threading.Event()\nclass MjpegStreamReader:",
+        "detail": "newLook",
+        "documentation": {}
+    },
+    {
+        "label": "CAMERA_CONTROL_URL",
+        "kind": 5,
+        "importPath": "newLook",
+        "description": "newLook",
+        "peekOfCode": "CAMERA_CONTROL_URL = f\"http://{CAMERA_IP}/action\"\nVIDEO_STREAM_URL = f\"http://{CAMERA_IP}:81/stream\"\n# Movement parameters\nMOVE_COOLDOWN = 0.12  # Seconds between camera movements (reduced from 0.5)\nCENTER_THRESHOLD = 0.1  # Distance from center before moving camera (reduced from 0.15)\nMOVEMENT_SMOOTHING = 2  # Number of frames to consider for smoothing movement\n# Global stop event to allow external termination\nstop_tracking_event = threading.Event()\nclass MjpegStreamReader:\n    def __init__(self, url):",
+        "detail": "newLook",
+        "documentation": {}
+    },
+    {
+        "label": "VIDEO_STREAM_URL",
+        "kind": 5,
+        "importPath": "newLook",
+        "description": "newLook",
+        "peekOfCode": "VIDEO_STREAM_URL = f\"http://{CAMERA_IP}:81/stream\"\n# Movement parameters\nMOVE_COOLDOWN = 0.12  # Seconds between camera movements (reduced from 0.5)\nCENTER_THRESHOLD = 0.1  # Distance from center before moving camera (reduced from 0.15)\nMOVEMENT_SMOOTHING = 2  # Number of frames to consider for smoothing movement\n# Global stop event to allow external termination\nstop_tracking_event = threading.Event()\nclass MjpegStreamReader:\n    def __init__(self, url):\n        self.url = url",
+        "detail": "newLook",
+        "documentation": {}
+    },
+    {
+        "label": "MOVE_COOLDOWN",
+        "kind": 5,
+        "importPath": "newLook",
+        "description": "newLook",
+        "peekOfCode": "MOVE_COOLDOWN = 0.12  # Seconds between camera movements (reduced from 0.5)\nCENTER_THRESHOLD = 0.1  # Distance from center before moving camera (reduced from 0.15)\nMOVEMENT_SMOOTHING = 2  # Number of frames to consider for smoothing movement\n# Global stop event to allow external termination\nstop_tracking_event = threading.Event()\nclass MjpegStreamReader:\n    def __init__(self, url):\n        self.url = url\n        self.frame = None\n        self.stopped = False",
+        "detail": "newLook",
+        "documentation": {}
+    },
+    {
+        "label": "CENTER_THRESHOLD",
+        "kind": 5,
+        "importPath": "newLook",
+        "description": "newLook",
+        "peekOfCode": "CENTER_THRESHOLD = 0.1  # Distance from center before moving camera (reduced from 0.15)\nMOVEMENT_SMOOTHING = 2  # Number of frames to consider for smoothing movement\n# Global stop event to allow external termination\nstop_tracking_event = threading.Event()\nclass MjpegStreamReader:\n    def __init__(self, url):\n        self.url = url\n        self.frame = None\n        self.stopped = False\n        self.thread = None",
+        "detail": "newLook",
+        "documentation": {}
+    },
+    {
+        "label": "MOVEMENT_SMOOTHING",
+        "kind": 5,
+        "importPath": "newLook",
+        "description": "newLook",
+        "peekOfCode": "MOVEMENT_SMOOTHING = 2  # Number of frames to consider for smoothing movement\n# Global stop event to allow external termination\nstop_tracking_event = threading.Event()\nclass MjpegStreamReader:\n    def __init__(self, url):\n        self.url = url\n        self.frame = None\n        self.stopped = False\n        self.thread = None\n        self.last_frame_time = 0",
+        "detail": "newLook",
+        "documentation": {}
+    },
+    {
+        "label": "stop_tracking_event",
+        "kind": 5,
+        "importPath": "newLook",
+        "description": "newLook",
+        "peekOfCode": "stop_tracking_event = threading.Event()\nclass MjpegStreamReader:\n    def __init__(self, url):\n        self.url = url\n        self.frame = None\n        self.stopped = False\n        self.thread = None\n        self.last_frame_time = 0\n    def start(self):\n        \"\"\"Start the MJPEG stream reader thread\"\"\"",
+        "detail": "newLook",
+        "documentation": {}
+    }
+]
