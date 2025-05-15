@@ -18,7 +18,7 @@ You can manually control
 cd 'Smart ESP32-CAM Surveillance System' <br>
 cd AUTOMATIC
 
-4. Download neccesary libraries
+4. Download neccesary libraries by: <br>
    pip freeze > requirements.txt
 
 5. then run 'new gpt.py' by-> <br>
