@@ -1,0 +1,17 @@
+os
+requests
+pyttsx3
+speechrecognition
+datetime
+webbrowser
+wikipedia
+pywhatkit
+smtplib
+subprocess
+threading
+time
+sys
+python-dotenv
+opencv-python
+numpy
+urllib3
