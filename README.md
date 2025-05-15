@@ -14,8 +14,14 @@ You can manually control
 
 2. Create virtual environment
 
-3. Download neccesary libraries
+3. Enter to the automatic folder by typing this code in terminal: <br>
+cd 'Smart ESP32-CAM Surveillance System' <br>
+cd AUTOMATIC
+
+4. Download neccesary libraries
    pip freeze > requirements.txt
 
-4. then run main by->
-   python main.py
+5. then run 'new gpt.py' by->
+   python 'new gpt.py'
+
+
