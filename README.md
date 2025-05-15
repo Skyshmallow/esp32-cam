@@ -21,7 +21,7 @@ cd AUTOMATIC
 4. Download neccesary libraries
    pip freeze > requirements.txt
 
-5. then run 'new gpt.py' by->
+5. then run 'new gpt.py' by-> <br>
    python 'new gpt.py'
 
 
